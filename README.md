@@ -10,3 +10,6 @@ In the provided screenshot, the application is compiled using the javac command 
 This project is ideal for students or developers who want to practice API consumption in Java and get comfortable using external libraries. It introduces key programming concepts like working with URLs, handling exceptions, using streams, and parsing JSON. It also emphasizes proper use of Java classes and object-oriented structure. The app can be extended further by adding support for forecasts, country code filters, or a GUI interface using Swing or JavaFX.
 
 In summary, the Java WeatherApp is a well-rounded beginner project that demonstrates how to build a functional, real-time weather application using an external API and Java’s core features. It provides a hands-on understanding of HTTP communication, JSON data handling, and user interaction, making it a valuable mini-project for both learning and demonstration purposes.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/1a8aa0e0-24ba-4772-8e3b-5986a34c4611)
