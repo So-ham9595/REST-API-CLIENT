@@ -1,4 +1,17 @@
 # REST-API-CLIENT
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: Soham Santosh Salunkhe
+
+Intern ID :CITS0D507
+
+DOMAIN: JAVA PROGRAMMING
+
+BATCH DURATION: 4 Weeks
+
+MENTOR NAME: NEELA SANTHOSH
+
+
 The Java WeatherApp is a simple yet practical console-based application that retrieves real-time weather information for any city entered by the user. It uses the OpenWeatherMap API to fetch current weather data such as temperature, humidity, wind speed, and weather conditions. The application is implemented using standard Java networking and I/O classes, and it parses JSON responses using the org.json library. This project effectively demonstrates how to integrate an external web API into a Java program, making it a great learning experience for beginners in both Java development and working with RESTful APIs.
 
 When the user runs the program, they are prompted to enter the name of a city. In the output shown, the user enters “pune”, and the application converts the input to uppercase for display purposes in the final report. The program constructs a URL with the given city name, the OpenWeatherMap API key, and additional parameters (like units=metric) to request data in Celsius. It opens a connection to the API using HttpURLConnection and reads the response using a BufferedReader. The response comes in JSON format, which the program parses using the JSONObject class from the external json-20230618.jar library.
